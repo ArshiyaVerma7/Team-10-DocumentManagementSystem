@@ -1,5 +1,5 @@
 # Team-10-DocumentManagementSystem
-## <Overview>
+
 Unified Document Management System is an application that helps users store, organize, search, and manage documents efficiently from a single platform.
 
 ## Features
